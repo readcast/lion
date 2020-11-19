@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.10.9
+
+### Patch Changes
+
+- Updated dependencies [4bacc17b]
+  - @lion/form-core@0.6.11
+  - @lion/input@0.10.9
+
 ## 0.10.8
 
 ### Patch Changes

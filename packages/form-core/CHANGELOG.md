@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.6.11
+
+### Patch Changes
+
+- 4bacc17b: Adding form elements at the top of a form now adds them to the beginning of the `.formElements` to keep it in sync with the dom order.
+
 ## 0.6.10
 
 ### Patch Changes

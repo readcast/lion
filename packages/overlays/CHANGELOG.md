@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.22.3
+
+### Patch Changes
+
+- 9142a53d: overlays: make arrow config more composable
+- 3944c5e8: Overlays: open, close and toggle methods on host (OverlayMixin)
+
 ## 0.22.2
 
 ### Patch Changes
